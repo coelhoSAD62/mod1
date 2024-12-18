@@ -1,0 +1,13 @@
+{
+    "format_version": "1.10",
+    "minecraft:item": {
+        "description": {
+            "identifier": "mod1:backpack",
+            "category": "Tools",
+            "is_experimental": false
+        },
+        "components": {
+            "minecraft:icon": "textures/items/backpack.png"
+        }
+    }
+}

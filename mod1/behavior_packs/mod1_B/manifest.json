@@ -1,0 +1,16 @@
+{
+    "format_version": 2,
+    "header": {
+      "description": "Comportamento do meu mod",
+      "name": "Meu Mod - Behavior",
+      "uuid": "f2c73591-c067-4ce0-a5fe-7c734a211758",
+      "version": [1, 0, 0]
+    },
+    "modules": [{
+      "description": "Funções do meu mod",
+      "entry": "meu_mod:funcoes",
+      "type": "scripting",
+      "uuid": "f2c73591-c067-4ce0-a5fe-7c734a211758",
+      "version": [1, 0, 0]
+    }]
+}

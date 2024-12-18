@@ -1,0 +1,1 @@
+execute as @s[nbt={SelectedItem:{id:"mod1:backpack"}}] run give @s minecraft:diamond 1

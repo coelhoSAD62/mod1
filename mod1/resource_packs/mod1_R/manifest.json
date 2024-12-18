@@ -1,0 +1,16 @@
+{
+    "format_version": 2,
+    "header": {
+      "description": "Recursos do meu mod",
+      "name": "Meu Mod - Resource",
+      "uuid": "f2c73591-c067-4ce0-a5fe-7c734a211758",
+      "version": [1, 0, 0]
+    },
+    "modules": [{
+      "description": "Texturas e modelos do meu mod",
+      "entry": "meu_mod:texturas",
+      "type": "scripting",
+      "uuid": "f2c73591-c067-4ce0-a5fe-7c734a211758",
+      "version": [1, 0, 0]
+    }]
+}
